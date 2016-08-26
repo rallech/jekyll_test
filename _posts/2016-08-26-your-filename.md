@@ -1,5 +1,8 @@
 ---
 published: false
+layout: page
+date: 2016-08-26T21:12:57.000Z
+category: ref
 ---
 ## A New Post
 
