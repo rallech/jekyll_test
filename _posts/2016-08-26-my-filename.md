@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: page
-date: 2016-08-26T16:12:57.000Z
+date: {}
 category: ref
 ---
 ## A New Post
