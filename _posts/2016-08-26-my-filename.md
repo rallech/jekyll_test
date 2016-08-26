@@ -10,4 +10,4 @@ order: 0
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 bla
-![alt text machen]({{site.baseurl}}/_ref/test.png)
+![alt text machen]({{site.baseurl}}/_posts/test.png)
