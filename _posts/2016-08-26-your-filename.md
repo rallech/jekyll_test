@@ -1,8 +1,8 @@
 ---
 published: true
 layout: page
-date: {}
-category: ref
+date: 2016-08-26T21:12:57.000Z
+category: news
 ---
 ## A New Post
 
