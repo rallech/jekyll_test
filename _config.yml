@@ -15,7 +15,7 @@ google_analytics_id: ''
 navigation: 2
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/rallech/jekyll_test'
+codeurl: 'http://rallech.github.io/jekyll_test'
 
 # Default categories (in order) to appear in the navigation
 sections: [
