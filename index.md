@@ -1,6 +1,6 @@
 ---
+title: Jekyll Docs Template
 layout: default
-title: "Jekyll Docs Template"
 ---
 
 ### Get Started

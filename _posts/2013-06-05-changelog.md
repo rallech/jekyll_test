@@ -1,7 +1,9 @@
 ---
+title: Changelog
+date: 2013-06-05 00:00:00 Z
+categories:
+- dev
 layout: page
-title: "Changelog"
-category: dev
 order: 1
 ---
 
