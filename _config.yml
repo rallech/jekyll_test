@@ -9,8 +9,8 @@ collections:
     title: Uploads
     output: true
 subtitle: Painless documentation for your projects
-disqus_shortname: ''
-google_analytics_id: ''
+disqus_shortname: 
+google_analytics_id: 
 navigation: 2
 codeurl: https://github.com/rallech/jekyll_test
 sections:
@@ -24,7 +24,7 @@ sections:
   - Developers
 - - post
   - Posts
-baseurl: ''
+baseurl: 
 permalink: none
 highlighter: rouge
 future: true
