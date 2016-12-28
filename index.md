@@ -1,7 +1,6 @@
 ---
 title: Jekyll Docs Template
 date: 2016-12-28 15:40:00 Z
-Field name: 
 layout: default
 ---
 
