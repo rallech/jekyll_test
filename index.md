@@ -1,5 +1,6 @@
 ---
 title: Jekyll Docs Template
+date: 2016-12-28 14:42:00 Z
 layout: default
 ---
 
