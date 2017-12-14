@@ -7,8 +7,6 @@ order: 2
 layout: page
 ---
 
-
-
 ```
 bbbCopyright (c) 2013 Byron Ruth
 
