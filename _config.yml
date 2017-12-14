@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  people:
+    title: people
+    output: true
 subtitle: Painless documentation for your projects
 disqus_shortname: 
 google_analytics_id: 
