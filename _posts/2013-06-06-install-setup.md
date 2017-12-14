@@ -17,3 +17,5 @@ There are two methods:
 #### Setup
 
 There is none! It's just a Jekyll template. Read how to [make use of this template]({{ site.baseurl }}{% post_url 2013-06-06-usage %}). For general information on Jekyll, refer to the [Jekyll docs](http://jekyllrb.com/docs/home/).
+
+#### Setup xc
