@@ -1,13 +1,13 @@
 ---
 title: Install & Setup
-date: 2013-06-06 11:01:37 Z
+date: 2013-06-06 11:01:00 Z
 categories:
 - doc
-layout: page
 order: 0
+layout: page
 ---
 
-#### Install
+#### Installation
 
 There are two methods:
 
