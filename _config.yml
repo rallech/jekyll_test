@@ -2,14 +2,14 @@
 title: jekyll-test
 timezone: UTC
 collections:
+  developers:
+    title: Developers
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
-    output: true
-  people:
-    title: people
     output: true
 subtitle: Painless documentation for your projects
 disqus_shortname: 
