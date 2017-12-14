@@ -3,16 +3,11 @@ title: Tutor
 date: 2017-12-14 14:43:00 Z
 categories:
 - tut
----
-
----
-title: License
-date: 2013-06-05 00:00:00 Z
-categories:
-- dev
 order: 2
 layout: page
 ---
+
+
 
 ```
 bbbCopyright (c) 2013 Byron Ruth
