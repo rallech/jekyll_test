@@ -2,9 +2,6 @@
 title: jekyll-test
 timezone: UTC
 collections:
-  developers:
-    title: Developers
-    output: true
   posts:
     title: Posts
     output: true
