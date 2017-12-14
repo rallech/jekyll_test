@@ -6,7 +6,7 @@ date: 2013-06-06 11:01:37
 order: 0
 ---
 
-#### Install
+#### Installing
 
 There are two methods:
 
