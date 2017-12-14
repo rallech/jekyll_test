@@ -1,13 +1,13 @@
 ---
 title: Contributing
-date: 2013-06-03 21:12:57 Z
+date: 2013-06-03 21:12:00 Z
 categories:
 - dev
-layout: page
 order: 0
+layout: page
 ---
 
-The first step in contributing to the code base is [forking the repo](https://help.github.com/articles/fork-a-repo).
+abcThe first step in contributing to the code base is [forking the repo](https://help.github.com/articles/fork-a-repo).
 
 If you have an existing fork, make the repo is up-to-date. Always create the
 branch off the actively developed branch (typically `develop` or `master`)
